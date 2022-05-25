@@ -51,12 +51,8 @@ header {
 
   button:hover {
     background-color: rgb(44, 143, 110);
-  }
-
-  a:hover {
-    background-color: rgb(44, 143, 110);
-  }
-  
+    cursor: pointer;
+  }  
   footer {
     background-color: black;
     padding: 1px 1px 1px 1px;
